@@ -44,6 +44,3 @@ While True
 	MouseClick($Button)
 	Sleep(200)
 WEnd
-
-
-
