@@ -2,7 +2,7 @@
 $Button = "left"
 $Delay = 100
 
-;registration hottkeys
+;registration hotkeys
 HotKeySet("{F5}", "SwitchButton")
 HotKeySet("{F6}", "Speedup")
 HotKeySet("{F7}", "Slowdown")
