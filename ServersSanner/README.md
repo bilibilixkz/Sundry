@@ -1,4 +1,4 @@
-A Minecraft server sanner based on [mcstatus](http://pypi.org/project/mcstatus/), also uses some code from [ping3](http://pypi.org/project/ping3/).
+A Minecraft server sanner based on [mcstatus](http://pypi.org/project/mcstatus/), and also uses some code from [ping3](http://pypi.org/project/ping3/).
 
 To use it, just open and enter the IP which you want to scan. ServersSanner will check if there is a server on ports between 1024 and 65535, and print a message on console when one was found.
 
