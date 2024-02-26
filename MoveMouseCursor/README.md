@@ -2,7 +2,7 @@
 
 A simple tool to move the mouse cursor to the center of your screen.
 
-Might not work on computer with multiple screens.
+Do not capable with computer with multiple screens currently.
 
 ## Update Log
 
