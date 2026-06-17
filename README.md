@@ -1,8 +1,8 @@
 # Sundry
-## Information
-This repository stores the code which I would like to open source or I am asked to open source, but they are too tiny that create a repository for each of them is unrealistic.
+## Abstract
+This repository contains small code snippets and projects that I want to open source (or have been asked to open source), but are too trivial to warrant individual repositories.
 
-Different projects are in different folders, and i try my best to keep the folder names simple and easy to understand.
+Each project resides in its own folder, with names kept as simple and descriptive as possible for easy navigation.
 
 ## License
-Please check the LICENSE file in the folder.
+Please refer to the `LICENSE` file within each folder for licensing details.
