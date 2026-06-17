@@ -55,4 +55,4 @@ Tell a joke
 
 ## Notes
 
-- Ensure text files are saved in **UTF-8** or **ANSI** encoding to avoid character display issues, especially for non-English names.
+- Ensure text files are saved in **UTF-8** encoding to avoid character display issues, especially for non-English names.
